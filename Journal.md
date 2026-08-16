@@ -26,7 +26,7 @@ Not much done today mainly because I was busy. I added in the footprints for eve
 ## Time Spent: 0.5 Hours
 
 ## 8/16/2026 - Placed Components
-I placed all the components in hopefully the most efficient manner. I realized there was nothing stopping me from keeping the space I used more efficient by putting the PY32 and the CH340 on the bottom. Thanks to that I was able to better place all of my components and keep them in an area that's about 45mm by 25mm. So pretty small which is surprising. Took me a while to actually get the buttons right because by the way they were originally, it would've caused issues for when I placed all the silkscreens. I'm going to have to add all the of gpio silkscreens and actually route the components next. Hopefully nothing is wrong
+I placed all the components in hopefully the most efficient manner. I realized there was nothing stopping me from keeping the space I used more efficient by putting the PY32 and the CH340 on the bottom. Thanks to that I was able to better place all of my components and keep them in an area that's about 45mm by 25mm. So pretty small which is surprising. Took me a while to actually get the buttons right because by the way they were originally, it would've caused issues for when I placed all the silkscreens. I'm going to have to add all the of gpio silkscreens and actually route the components next. Hopefully nothing is wrong.  
 <img width="388" height="566" alt="image" src="https://github.com/user-attachments/assets/131ae4db-5ea6-47d9-96f0-61138854719f" />
 
 ## Time Spent: 1.5 Hours
