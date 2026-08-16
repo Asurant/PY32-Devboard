@@ -17,3 +17,10 @@ I completed the schematic. Nothing much got added, I added buttons and GPIO pins
 <img width="996" height="546" alt="image" src="https://github.com/user-attachments/assets/2a64e82b-889c-4690-9c8b-299790b5ac5f" />  
 
 ## Time Spent: 1.7 Hours
+
+## 8/15/2026 - Footprints And Schematic Changes
+Not much done today mainly because I was busy. I added in the footprints for everything but had some errors pop up when I was transferring the schematic into the pcb. Turns out the design for the USB C footprint was different that the schematic symbol so I had to change the schematic and rewire it. For some reason there appears to be an extra 4 pins on the MicroSD but I'll have to check that out another time.  
+<img width="1085" height="633" alt="image" src="https://github.com/user-attachments/assets/9da7cb06-e562-49ba-8ab5-df52caf5a19b" />  
+<img width="670" height="696" alt="image" src="https://github.com/user-attachments/assets/9c9a6ba5-f720-4ab5-b94c-0e75c1445784" />  
+<img width="565" height="430" alt="image" src="https://github.com/user-attachments/assets/299dd13b-677c-43b3-97c0-be1308709ed9" />  
+## Time Spent: 0.5 Hours
