@@ -30,3 +30,9 @@ I placed all the components in hopefully the most efficient manner. I realized t
 <img width="388" height="566" alt="image" src="https://github.com/user-attachments/assets/131ae4db-5ea6-47d9-96f0-61138854719f" />
 
 ## Time Spent: 1.5 Hours
+
+## 8/17/2026 - Redesign and Routing
+I redesigned the board from the ground up. When I started routing the parts, I realized I didn't place the components in the best way and also that there were many improvements I could make. So I went back and moved around the components and even changed the schematic so I could route it easier. I was thinking about switching to a 4 layer board but it ended up not being that difficult so I was able to just simply use 2 layers. After I placed all the parts better I ended up with a pcb that's about 40mm by 25mm. However when I did a DRC check I discovered that the silkscreens for a lot of the parts were too small so I will need to adjust them.
+<img width="719" height="825" alt="image" src="https://github.com/user-attachments/assets/c1de32b2-55b3-4b31-9fb6-385913b034c7" />
+
+## Time Spent: 2.6 Hours
