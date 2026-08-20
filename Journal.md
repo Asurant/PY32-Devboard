@@ -36,3 +36,17 @@ I redesigned the board from the ground up. When I started routing the parts, I r
 <img width="719" height="825" alt="image" src="https://github.com/user-attachments/assets/c1de32b2-55b3-4b31-9fb6-385913b034c7" />
 
 ## Time Spent: 2.6 Hours
+
+## 8/19/2026 - Silkscreen Fixes
+Since I had to increase the size of the silkscreen I also had to move the gpio headers further out so the text could fit. Didn't take my long but most of the time was spent rerouting those parts since the old routing needed to be extended.
+
+<img width="494" height="563" alt="image" src="https://github.com/user-attachments/assets/f2e6a556-97eb-4fd7-a3e2-def5a8d7c061" />
+
+## Time Spent: 0.5 Hours
+
+## 8/19/2026 - Redesign
+Under the advice of another person I did another redesign to move all the parts onto one side so I could keep the art on the other side however I now realized that the LDO is still below the USB. This means I'll have to move around the parts again. I'll probably just move the USB down in order to minimize the changes that need to be made.
+<img width="572" height="815" alt="image" src="https://github.com/user-attachments/assets/c75d05d5-d03e-43e0-9870-bff34a1b3299" />
+
+## Time Spent: 1.2 Hours
+
