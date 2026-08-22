@@ -50,3 +50,8 @@ Under the advice of another person I did another redesign to move all the parts 
 
 ## Time Spent: 1.2 Hours
 
+## 8/20/2026 - LDO fixes
+Just some simple fixes. Got the LDO on the top and also had to move around some other parts since the LDO ended up causing more changes than I expected. I also ended up discovering I made a mistake with my +3.3V routing so I went and fixed that. All I need to do now is add some silkscreen and an actual edge cut to make it polished.
+<img width="385" height="606" alt="image" src="https://github.com/user-attachments/assets/63beba64-8102-4f0a-94a7-d4c950fe56fa" />
+
+## Time Spent: 0.5 Hours
